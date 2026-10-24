@@ -165,20 +165,3 @@ Tests use temporary directories and no real API key. They cover the full intervi
 
 See [docs/VALIDATION.md](docs/VALIDATION.md) for the checks performed on this project.
 
-## GitHub and submission
-
-Review the source and README, then create an empty GitHub repository. From this folder:
-
-```bash
-git init
-git add .
-git status
-git commit -m "Build resume-aware RAG interview assignment"
-git branch -M main
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
-git push -u origin main
-```
-
-`.gitignore` excludes API keys, candidate data, downloaded textbooks, model/vector data, dependencies, logs and build output. `frontend/package-lock.json` is included. Do not add your real resume or downloaded books to the repository. The sample resumes are fictional.
-
-Record the **mandatory end-to-end demo video** using [docs/DEMO.md](docs/DEMO.md). The assignment mapping and prototype limits are in [docs/ASSIGNMENT_CHECKLIST.md](docs/ASSIGNMENT_CHECKLIST.md). This is an intentionally small local assignment project: no authentication, multi-user isolation, hosted deployment or production scaling.
