@@ -1,0 +1,6 @@
+Sam Taylor
+Backend Engineer candidate
+Skills: Python, FastAPI, SQL, PostgreSQL, Redis, Docker, REST APIs, Git
+Experience: 2 years of academic and internship projects.
+Built an e-commerce order API with PostgreSQL transactions and Redis caching.
+Implemented input validation, pagination and integration tests for the order workflow.

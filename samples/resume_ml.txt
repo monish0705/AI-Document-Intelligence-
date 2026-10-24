@@ -1,0 +1,7 @@
+Alex Morgan
+AI / ML Engineer candidate
+Skills: Python, pandas, numpy, SQL, scikit-learn, machine learning, FastAPI, Git
+Experience: 1 year of academic and internship projects.
+Built a healthcare classification project to predict appointment no-shows using logistic regression and random forests.
+Implemented preprocessing with missing value imputation and evaluated recall on an imbalanced dataset.
+Developed a FastAPI prediction endpoint and documented the experiment results.
